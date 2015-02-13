@@ -1,5 +1,4 @@
-﻿<%@ Page Language = "C#" AutoEventWireup = "true" 
-    CodeFile = "CurrencyConverter.aspx.cs" Inherits = "CurrencyConverter" %> 
+﻿<%@ Page Language = "C#" AutoEventWireup = "true" Inherits = "CurrencyConverter" Codebehind="CurrencyConverter.aspx.cs" %> 
 
 <!DOCTYPE html> 
 <html> 

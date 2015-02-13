@@ -69,13 +69,13 @@
     <Content Include="CurrencyConverter.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CurrencyConverter.aspx.designer.cs">
+      <DependentUpon>CurrencyConverter.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="CurrencyConverter.aspx.cs">
       <DependentUpon>CurrencyConverter.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="CurrencyConverter.aspx.designer.cs">
-      <DependentUpon>CurrencyConverter.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <PropertyGroup>
