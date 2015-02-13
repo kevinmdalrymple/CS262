@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS262", "CS262\CS262.csproj", "{1A5E5AB9-57F0-441F-8DDA-FE8D83EF070D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Currency Converter", "Currency Converter\Currency Converter.csproj", "{5C38B51B-B5C1-46D8-9E6C-54A4FED9364B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A5E5AB9-57F0-441F-8DDA-FE8D83EF070D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5E5AB9-57F0-441F-8DDA-FE8D83EF070D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5E5AB9-57F0-441F-8DDA-FE8D83EF070D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5E5AB9-57F0-441F-8DDA-FE8D83EF070D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C38B51B-B5C1-46D8-9E6C-54A4FED9364B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C38B51B-B5C1-46D8-9E6C-54A4FED9364B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C38B51B-B5C1-46D8-9E6C-54A4FED9364B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C38B51B-B5C1-46D8-9E6C-54A4FED9364B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
