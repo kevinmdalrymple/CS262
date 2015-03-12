@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -11,7 +11,7 @@ public partial class CurrencyConverter : System.Web.UI.Page
     {
         decimal oldAmount;
         bool success = Decimal.TryParse(US.Value, out oldAmount);
-        if ((oldAmount<= 0) || (success == false))
+        if ((oldAmount <= 0) || (success == false))
         {
             Result.Style["color"] = "Red";
             Result.InnerText = "Specify a positive number";
@@ -46,3 +46,5 @@ public partial class CurrencyConverter : System.Web.UI.Page
         Graph.Visible = true;
     }
 }
+
+

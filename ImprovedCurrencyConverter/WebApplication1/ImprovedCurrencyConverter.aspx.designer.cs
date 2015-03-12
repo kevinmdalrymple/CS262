@@ -9,9 +9,8 @@
 
 
 
-public partial class CurrencyConverter
-{
-
+public partial class CurrencyConverter {
+    
     /// <summary>
     /// US control.
     /// </summary>
@@ -20,7 +19,7 @@ public partial class CurrencyConverter
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::System.Web.UI.HtmlControls.HtmlInputText US;
-
+    
     /// <summary>
     /// Currency control.
     /// </summary>
@@ -29,7 +28,7 @@ public partial class CurrencyConverter
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::System.Web.UI.HtmlControls.HtmlSelect Currency;
-
+    
     /// <summary>
     /// Convert control.
     /// </summary>
@@ -38,7 +37,7 @@ public partial class CurrencyConverter
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::System.Web.UI.HtmlControls.HtmlInputSubmit Convert;
-
+    
     /// <summary>
     /// ShowGraph control.
     /// </summary>
@@ -47,7 +46,7 @@ public partial class CurrencyConverter
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::System.Web.UI.HtmlControls.HtmlInputSubmit ShowGraph;
-
+    
     /// <summary>
     /// Graph control.
     /// </summary>
@@ -56,7 +55,7 @@ public partial class CurrencyConverter
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::System.Web.UI.HtmlControls.HtmlImage Graph;
-
+    
     /// <summary>
     /// Result control.
     /// </summary>
